@@ -5,9 +5,6 @@ https://github.com/user-attachments/assets/59cb72d1-b43e-4965-a7c2-b1328a285967
 # About Dataset
 # *Context*
 
-https://github.com/user-attachments/assets/59cb72d1-b43e-4965-a7c2-b1328a285967
-
-
 Have you ever wondered when the best time of year to book a hotel room is? Or the optimal length of stay in order to get the best daily rate? What if you wanted to predict whether or not a hotel was likely to receive a disproportionately high number of special requests?
 
 This hotel booking dataset can help explore those questions!
