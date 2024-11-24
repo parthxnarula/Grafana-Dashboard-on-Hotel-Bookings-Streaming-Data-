@@ -9,6 +9,22 @@ This hotel booking dataset can help explore those questions!
 # *Content*
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 
+The dataset contains information about hotel reservations with the following columns:
+•	hotel: Type of hotel (e.g., ResortHotel or CityHotel).
+•	iscanceled: Indicates if the reservation was canceled.
+•	leadtime: Number of days between booking and check-in.
+•	arrivaldateyear, arrivaldatemonth: Check-in year and month.
+•	staysinweekendnights, staysinweeknights: Nights spent during weekends and weekdays.
+•	adults, children, babies: Number of adults, children, and babies in the reservation.
+•	country: Guest's country of origin.
+•	marketsegment, distributionchannel: Booking source (e.g., Direct, Online TA).
+•	reservedroomtype, assignedroomtype: Room types reserved and assigned.
+•	deposittype: Type of deposit made for the reservation.
+•	agent, company: IDs for the booking agent and company.
+•	customertype: Type of customer (e.g., transient).
+•	reservationstatus: Final status (e.g., CheckOut, Canceled).
+
+
 # Objective of the Dashboard
 
 The primary objective of this dashboard is to provide actionable insights into reservation trends, customer behavior, and market segment performance to aid managerial decision-making. Specifically, it aims to:
