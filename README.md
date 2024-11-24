@@ -67,22 +67,6 @@ Observations:
 
 2.	Each segment (except for Complementary and Corporate, which are smaller at 10% each) accounts for approximately 20% of the total average number of adults per reservation.
 
-Chart Names and Interpretation
-
-•	Lead Time Analysis: Analyzes the lead time distribution across reservations.
-
-•	Total Number of Adults: Summarizes the count of adults across bookings.
-
-•	Total Weekday Nights Booked: Shows the cumulative number of weekday nights.
-
-•	Weekly vs Weekend Stay Trends: Compares weekday and weekend stays.
-
-•	Children vs Adults in Reservations: Visualizes children and adult proportions in bookings for different meal plans.
-
-•	Average Lead Time per Distribution Channel: Shows how lead times differ based on distribution channels like Corporate, Direct, and TA/TO.
-
-•	Total Reservations by Countries: Summarizes reservation counts across different countries.
-
 Chart 6 Lead Time Analysis
 
 Observation:
